@@ -1,2 +1,4 @@
-# wp-post-slider
-WordPress Plugin: Custom Post Slider
+# WordPress Post Slider
+
+## Shortcode
+`[content-slider category_name="Announcement" numberposts="10"]`
