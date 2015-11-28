@@ -1,0 +1,10 @@
+.lslide {
+	min-height: 250px !important;
+	padding-left: 50px !important;
+	padding-right: 50px !important;
+	padding-top: 25px !important;
+	padding-bottom: 25px !important;
+}
+.lSSlideOuter .lSPager.lSpg > li a {
+	/*background-color: white !important;*/
+}
